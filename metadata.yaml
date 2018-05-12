@@ -1,0 +1,46 @@
+_repo: Brain-Twister_22332
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Janifer, Laurence M.
+    aliases:
+    - Janifer, Larry
+    - Janifer, Laurence Mark
+    - Logan, William
+    - Harris, Larry M.
+    - Harris, Laurence Mark
+    birthdate: 1933
+    deathdate: 2002
+    gutenberg_agent_id: '25268'
+    url: http://www.gutenberg.org/2009/agents/25268
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
+  - agent_name: Garrett, Randall
+    aliases:
+    - Garret, Randall
+    - Garrett, Gordon Randall
+    - Jorgensen, Ivar
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States. Federal Bureau of Investigation -- Fiction'
+title: Brain Twister
+url: http://www.gutenberg.org/ebooks/22332
